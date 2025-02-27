@@ -18,7 +18,7 @@ body {
   /* Make the rubber band scroll not show empty white space */
   top: -10%;
   height: 120%;
-  min-height: 120vh;
+  min-height: 100vh;
   margin-bottom: -20%;
 }
 
@@ -150,3 +150,4 @@ code {
   height: 104px;
   width: auto;
 }
+
